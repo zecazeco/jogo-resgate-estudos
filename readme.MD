@@ -1,4 +1,4 @@
-# Simples Game de Resgate Nave
+# Game de Resgate com Naves
 
 Projeto simples de estudo para uma das aulas da Digital Innovation One.
 
